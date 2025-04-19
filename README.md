@@ -72,8 +72,4 @@
 ####
 you can also fill up your contribution graph in 5 minutes, here's the [tutorial](https://youtu.be/LlkcvvGbs9I) !
 
-<div align="center">
-  <img align="center" width="50%" src="/Media/thumbnail/GoGreenGithub2.png">
-</div>
-<!-- </div> -->
 <br>
